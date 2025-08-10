@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #1F2225 !important;
+}
+
+.nav-btn {
+  border-radius: 50px;
+  font-weight: bold;
+  color: #B0B0B0;
+  border: 2px solid transparent;
+  background-color: transparent;
+  padding: 8px 24px;
+  transition: all 0.3s ease-in-out;
+}
+
+.nav-btn:hover {
+  color: white;
+  border-color: #0dcaf0;
+}
+
+.active-styles {
+  background-color: #0DCAF0 !important;
+  color: black !important;
+  border-color: #0dcaf0;
+}
